@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 .main {
-	background-colo: #f5f5f5;
+	background-color: #f5f5f5;
 	padding: 1rem;
 }
 .testimonal {
@@ -13,7 +13,7 @@
 	font-style: italic;
 }
 div{
-	background-color: #f5f5f5;
+	background-color: white ;
 	padding: 1rem;
 	border: 1px solid black;
 	
